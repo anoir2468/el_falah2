@@ -1,0 +1,16 @@
+{
+  "appId": "dz.farmer.platform",
+  "appName": "منصة الفلاح الجزائري",
+  "webDir": "out",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#16a34a",
+      "showSpinner": false
+    }
+  }
+}
